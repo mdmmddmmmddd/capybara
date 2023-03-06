@@ -1,0 +1,64 @@
+svg, #text {float:right;}
+        #text{
+            width: 40%;
+            height: 40%;
+            font-size: 40px;
+        }
+
+        .lapki{
+            fill: rgb(255, 255, 255);
+            opacity: 0;
+            stroke: black;
+        }
+        .lapki:hover{
+            fill: rgb(255, 255, 255);
+            opacity: 0.5;
+            stroke: black;
+        }
+
+        .head{
+            fill: rgb(255, 255, 255);
+            opacity: 0;
+            stroke: black;
+        }
+        .head:hover{
+            fill: rgb(255, 255, 255);
+            opacity: 0.5;
+            stroke: black;
+        }
+
+        .puzo{
+            fill: rgb(255, 255, 255);
+            opacity: 0;
+            stroke: black;
+        }
+        .puzo:hover{
+            fill: rgb(255, 255, 255);
+            opacity: 0.5;
+            stroke: black;
+        }
+
+        .ass{
+            fill: rgb(255, 255, 255);
+            opacity: 0;
+            stroke: black;
+        }
+        .ass:hover{
+            fill: rgb(255, 255, 255);
+            opacity: 0.5;
+            stroke: black;
+        }
+
+        .spina{
+            fill: rgb(255, 255, 255);
+            opacity: 0;
+            stroke: black;
+        }
+        .spina:hover{
+            fill: rgb(255, 255, 255);
+            opacity: 0.5;
+            stroke: black;
+        }
+
+        #curs:hover{cursor:pointer}[[]]
+    
